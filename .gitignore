@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+env/
+.venv/
+venv/
+
+# Streamlit & app state
+.memory/
+.streamlit/
+
+# EchoAtlas data
+memory_store/
+reset_memory_store.flag
+
+# Models (you can re-download or document separately)
+models/
+# or if you only want to ignore vosk:
+# models/vosk-model-small-en-us-0.15/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.env

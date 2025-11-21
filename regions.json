@@ -1,0 +1,125 @@
+{
+  "Indian States": {
+    "Tamil Nadu": {
+      "emoji": "🇮🇳",
+      "locations": {
+        "Chennai": {
+          "phrase": "Enakku oru dosa kudunga",
+          "gesture": "Join palms (Namaste) and smile",
+          "tone": "Respectful and warm",
+          "custom": "Use honorifics with elders and avoid sounding too direct."
+        },
+        "Coimbatore": {
+          "phrase": "Oru kaapi venuma, please",
+          "gesture": "Smile with a slight head nod",
+          "tone": "Friendly and casual",
+          "custom": "People appreciate a relaxed but polite style; small talk is common."
+        }
+      }
+    },
+    "Karnataka": {
+      "emoji": "🇮🇳",
+      "locations": {
+        "Bengaluru": {
+          "phrase": "One filter coffee, please",
+          "gesture": "Nod respectfully or give a small wave",
+          "tone": "Polite and professional",
+          "custom": "Mix of local and cosmopolitan culture; English is widely accepted."
+        },
+        "Mysuru": {
+          "phrase": "Ondu coffee kodi, dayavittu",
+          "gesture": "Join palms or nod politely",
+          "tone": "Soft and respectful",
+          "custom": "Traditional tone and courtesy are appreciated, especially with elders."
+        }
+      }
+    },
+    "Kerala": {
+      "emoji": "🇮🇳",
+      "locations": {
+        "Kochi": {
+          "phrase": "Oru chaya tharumo?",
+          "gesture": "Smile and maintain comfortable eye contact",
+          "tone": "Warm and friendly",
+          "custom": "People are generally informal but still value politeness."
+        },
+        "Thiruvananthapuram": {
+          "phrase": "Oru chaya venam, dayavaayi",
+          "gesture": "Slight head nod and soft smile",
+          "tone": "Calm and respectful",
+          "custom": "Using a few words of Malayalam is appreciated and seen as respectful."
+        }
+      }
+    }
+  },
+  "International": {
+    "USA": {
+      "emoji": "🇺🇸",
+      "locations": {
+        "New York": {
+          "phrase": "Can I get a coffee?",
+          "gesture": "Make eye contact and speak clearly",
+          "tone": "Direct but polite",
+          "custom": "People appreciate efficiency; small talk is okay but not required."
+        },
+        "California": {
+          "phrase": "Could I grab a coffee?",
+          "gesture": "Relaxed posture with a friendly smile",
+          "tone": "Casual and friendly",
+          "custom": "Tone is generally laid-back; being overly formal can feel distant."
+        }
+      }
+    },
+    "France": {
+      "emoji": "🇫🇷",
+      "locations": {
+        "Paris": {
+          "phrase": "Bonjour, un café s’il vous plaît.",
+          "gesture": "Slight nod; avoid over-smiling with strangers",
+          "tone": "Polite and composed",
+          "custom": "Start with a greeting like “Bonjour” before making a request."
+        },
+        "Lyon": {
+          "phrase": "Bonjour, un café, s’il vous plaît.",
+          "gesture": "Calm body language, minimal hand gestures",
+          "tone": "Respectful and neutral",
+          "custom": "Politeness and proper greetings are important in service interactions."
+        }
+      }
+    },
+    "Egypt": {
+      "emoji": "🇪🇬",
+      "locations": {
+        "Cairo": {
+          "phrase": "Momken ahad finjan ahwa, min fadlak?",
+          "gesture": "Warm smile and open hand gesture",
+          "tone": "Friendly and warm",
+          "custom": "Hospitality is valued; friendly tone and small talk go a long way."
+        },
+        "Alexandria": {
+          "phrase": "Momken ahad finjan ahwa, law samaht?",
+          "gesture": "Relaxed posture with friendly eye contact",
+          "tone": "Warm and informal",
+          "custom": "People appreciate a relaxed, friendly approach with respectful wording."
+        }
+      }
+    },
+    "Japan": {
+      "emoji": "🇯🇵",
+      "locations": {
+        "Tokyo": {
+          "phrase": "ラーメンを一杯お願いします。",
+          "gesture": "Small bow and minimal hand movement",
+          "tone": "Polite and soft-spoken",
+          "custom": "Politeness and quiet tone are important; avoid being too loud."
+        },
+        "Osaka": {
+          "phrase": "ラーメン一つお願いします。",
+          "gesture": "Friendly nod with a light bow",
+          "tone": "Polite but slightly more casual",
+          "custom": "Osaka can feel more outgoing; humor and friendliness are common."
+        }
+      }
+    }
+  }
+}

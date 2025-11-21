@@ -1,0 +1,39 @@
+# Core app framework
+streamlit==1.51.0
+
+# LangChain ecosystem (aligned with your working versions)
+langchain==0.1.17
+langchain-core==0.1.48
+langchain-openai==0.0.8
+langchain-community==0.0.36
+
+# Vector store and embeddings
+chromadb==1.3.4
+openai==1.109.1
+
+# Memory and environment
+python-dotenv==1.2.1
+
+# Audio + Speech
+speechrecognition==3.10.0
+pyaudio==0.2.13
+streamlit-webrtc==0.47.1   # WebRTC integration for mic
+av==12.3.0                 # Required by streamlit-webrtc
+numpy==1.26.4              # For audio frame handling
+
+# Optional: offline STT (no API keys)
+vosk==0.3.45               # If you want local transcription
+
+# Optional: image/banner support
+pillow==12.0.0
+
+# Optional: for agent tools or future expansion
+tiktoken==0.12.0
+tenacity==8.5.0
+
+librosa==0.10.2
+soundfile==0.12.1
+
+sounddevice
+
+sentence-transformers
