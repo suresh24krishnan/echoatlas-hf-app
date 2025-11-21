@@ -1,4 +1,4 @@
-✅ FINAL SINGLE-FILE README.md (Copy & Paste This Entire File)
+
 ---
 title: EchoAtlas
 emoji: 🌍
